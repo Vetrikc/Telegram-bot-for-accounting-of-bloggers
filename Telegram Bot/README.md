@@ -1,2 +1,3 @@
-# simple-telegram-bot
-Simple Telegram bot on Java / Spring Boot
+# Advertising accounting Telegram bot
+
+See the repository root README for project description and setup instructions.
